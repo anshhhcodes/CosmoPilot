@@ -33,7 +33,7 @@ CosmoPilot is a next-gen stargazing platform that transforms your device into a 
 
 ## 🖼️ Preview (Coming Soon)
 
-![cosmopilot_banner](docs/banner.png)
+![cosmopilot_banner](docs/CosmoPilot.png)
 
 > “CosmoPilot is not just a stargazer — it's your time machine, cosmic guide, and personal AI astronomer.”
 
@@ -72,14 +72,3 @@ Made with love by **Ansh Agarwal**
 [GitHub](https://github.com/anshhhcodes) • [LinkedIn](https://www.linkedin.com/in/anshhhagarwal) • [Email](anshhhworks@gmail.com)
 
 ---
-
-## 📜 License
-
-MIT License
-
----
-
-## 💫 Stargazing is just the beginning.
-
-CosmoPilot takes you *beyond the stars.*
-
